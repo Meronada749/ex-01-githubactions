@@ -77,7 +77,7 @@ git push
 
 > Question : *À quel moment le workflow s’est-il déclenché ?*
 
-... votre réponse ici ...
+on: [push] #
 
 ## Étape 2 – Ajouter la commande `date`
 
